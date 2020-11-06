@@ -1,3 +1,1 @@
-import AuthDesktop from './containers/desktop/Auth'
-
-export { AuthDesktop }
+export {default as AuthDesktop }  from './containers/desktop/Auth'

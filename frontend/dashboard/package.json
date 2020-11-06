@@ -40,6 +40,7 @@
     "whatwg-fetch": "2.0.4"
   },
   "dependencies": {
+    "@utils/reducer": "^1.0.0",
     "@emotion/core": "^10.0.9",
     "@emotion/styled": "^10.0.9",
     "apollo-cache-inmemory": "^1.2.10",
